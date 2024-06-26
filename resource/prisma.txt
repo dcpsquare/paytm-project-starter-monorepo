@@ -1,0 +1,2 @@
+To see GUI database for prisma
+Run - packages/db$ npx prisma studio inside packages/db

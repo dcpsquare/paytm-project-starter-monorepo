@@ -1,0 +1,2 @@
+1. Migrate database command:
+npx prisma migrate dev --name init
